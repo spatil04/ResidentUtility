@@ -1,3 +1,3 @@
 <?php
 
-echo 'hot fix';
+echo 'hot fixs';
