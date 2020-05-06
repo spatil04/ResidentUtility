@@ -3,3 +3,5 @@ echo "This is an demo file";
 echo "new line";
 echo "subbranch";
 echo "two";
+echo "three";
+echo "four";
