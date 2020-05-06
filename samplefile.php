@@ -1,3 +1,3 @@
 <?php
 
-echo 'sample file';
+echo 'hot fix';
