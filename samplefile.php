@@ -1,3 +1,3 @@
 <?php
 
-echo 'hot fixes deleted';
+echo 'hot fixes deleted 123';
