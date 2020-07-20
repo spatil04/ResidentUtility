@@ -1,0 +1,8 @@
+{
+    "name": "achougule/resident-utility",
+    "description": "A test package to test my composer skills",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": { "monolog/monolog": "1.0.*"}
+}
